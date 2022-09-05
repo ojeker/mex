@@ -1,0 +1,11 @@
+plugins {
+    id 'application'
+}
+
+application {
+    mainClass = 'ch.jo.mex.cli.Main'
+}
+
+dependencies {
+    implementation project(':model')
+}

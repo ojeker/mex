@@ -1,0 +1,5 @@
+rootProject.name = 'mex'
+include 'cli'
+include 'model'
+include 'sheet'
+
